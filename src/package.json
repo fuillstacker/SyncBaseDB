@@ -1,0 +1,21 @@
+{
+  "name": "@pavlo1/sync-base",
+  "version": "1.3.3",
+  "description": "",
+  "main": "dist/Database.js",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "typescript": "^5.5.3"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "database",
+    "file",
+    "json",
+    "storage"
+  ],
+  "author": "Pavlo",
+  "license": "ISC"
+}
